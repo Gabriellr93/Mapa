@@ -1,3 +1,6 @@
 # Mapa
 Trabalho para disciplina de Tópicos Especiais
-Essa é uma alteração em relação a Main
+
+Este trabalho tem por objetivo entender melhor o processo de versionamento de softwars
+Essa é  uma altteraç em realção a main
+
